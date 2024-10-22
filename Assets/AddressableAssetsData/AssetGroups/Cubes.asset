@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Cubes
+  m_EditorClassIdentifier: 
+  m_GroupName: Cubes
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b910ac16fc47a4b438f9e019f2c98598
+  m_SerializeEntries:
+  - m_GUID: 5bec6bd0f02ac484e96270f1d5f84d87
+    m_Address: Assets/Prefabs/Cubes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 375b73747b64cb74b9fae24249ba40d5
+    m_Address: Assets/Prefabs/Cubes/CubeA.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8af1ffcebcd32b43b4ec6d52330f96e
+    m_Address: Assets/Prefabs/Cubes/CubeB.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c49263ebd43e180408f09dd3a85b495e
+    m_Address: Assets/Prefabs/Cubes/CubeC.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 644fc2055ebc3454787b5af4f2d53c28, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c711fd06200e6b94d9cdac35ee77da76, type: 2}
+    - {fileID: 11400000, guid: 1639b2112cefe214abb4edf00733c7f8, type: 2}
